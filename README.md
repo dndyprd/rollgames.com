@@ -1,2 +1,2 @@
 # whatsapp-bot
-#credit=ANK3R-PRODUCT1ON
+CR : ANK3R-PRODUCT1ON
