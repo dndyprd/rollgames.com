@@ -1,7 +1,7 @@
 {
     "name": "termux-whatsapp-bot",
     "version": "0.0.2",
-    "description": "Only termux",
+    "description": "Whatsapp Bot",
     "main": "index.js",
     "directories": {
       "lib": "lib"
@@ -10,17 +10,9 @@
       "test": "echo \"Error: no test specified\" && exit 1",
       "start": "node index.js"
     },
-    "keywords": [
-      "termux",
-      "whatsapp",
-      "bot",
-      "whatsapp",
-      "bot"
-    ],
-    "author": "NazwaS",
+    "author": "DndyPrd",
     "license": "ISC",
     "dependencies": {
-      "@adiwajshing/baileys": "github:adiwajshing/baileys",
       "@kagchi/kag-api": "^1.5.5",
       "async": "^2.4.1",
       "axios": "^0.21.1",
@@ -41,10 +33,10 @@
     "devDependencies": {},
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/dndyprd/whatsapp-bot.git"
+      "url": "git+https://github.com/dndyprd/termux-whatsapp-bot.git"
     },
     "bugs": {
-      "url": "https://github.com/dndyprd/whatsapp-bot/issues"
+      "url": "https://github.com/dndyprd/termux-whatsapp-bot/issues"
     },
-    "homepage": "https://github.com/dndyprd/whatsapp-bot#readme"
+    "homepage": "https://github.com/dndyprd/termux-whatsapp-bot#readme"
   }
