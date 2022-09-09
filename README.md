@@ -1,6 +1,5 @@
 ### Hi Aku Dandy
-<br> Roll Games
+Roll Games 🎲 <br>
 
-🍙 Donate buat beli Bakso! 
-<br><a href="https://saweria.co/Snowy">Click here.</a>
+🍙 Donate buat beli Bakso! <a href="https://saweria.co/Snowy">Click here.</a>
 
