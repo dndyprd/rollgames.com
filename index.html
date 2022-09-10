@@ -58,9 +58,10 @@
 <section id="banner">
 <h3>GACHA TOGEL<br>2022</h3>
 <div class="gacha">
-    <label id="xlabel">0</label>
-    <label id="ylabel">0</label>
-    <label id="zlabel">0</label>
+    <label id="alabel">0</label>
+    <label id="blabel">0</label>
+    <label id="clabel">0</label>
+    <label id="dlabel">0</label>
 </div>
 <a id="rollButton">ROLL</a>
 <p>Klik terus hingga mendapatkan 3 angka sama. Seberapa hoki anda dalam mendapatkan 3 angka yg sama.</p>
@@ -69,19 +70,19 @@
 </center>
 </body>
 <script>
-let x;
-let y;
-let z;
+let a; let b; let c; let d;
 
 document.getElementById("rollButton").onclick = function(){
     
-    x = Math.floor(Math.random() * 6)+1;
-    y = Math.floor(Math.random() * 6)+1;
-    z = Math.floor(Math.random() * 6)+1;
+    a = Math.floor(Math.random() * 6)+1;
+    b = Math.floor(Math.random() * 6)+1;
+    c = Math.floor(Math.random() * 6)+1;
+    d = Math.floor(Math.random() * 6)+1;
     
-    document.getElementById("xlabel").innerHTML = x;
-    document.getElementById("ylabel").innerHTML = y;
-    document.getElementById("zlabel").innerHTML = z;
+    document.getElementById("alabel").innerHTML = a;
+    document.getElementById("blabel").innerHTML = b;
+    document.getElementById("clabel").innerHTML = c;
+    document.getElementById("dlabel").innerHTML = d;
 }
 </script>
 </html>
